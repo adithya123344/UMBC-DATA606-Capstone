@@ -6,7 +6,7 @@
 **Mail ID:** adithyareddy081@gmail.com  
 **Contact:** +14435636221
 
-![HeadShot]
+![HeadShot](./headshot.jpg)
 
 
 ## EDUCATION
@@ -36,14 +36,15 @@
 ## WORK EXPERIENCE
 
 ### PERSISTENT SYSTEM LIMITED (Nov 2021- Dec 2022)
-**Full stack Developer**
-*Internship*
--	Completed Internship at Persistent Systems Ltd 
+*Full stack Developer*
+
+**Internship**
 -	Trained and worked on Java ,SQL,GIT as intern.
 -	Undergone Python, Django and ReactJs training for 3 months
--	Developed the Employee Desk Booking System as POC using Python, Django   ReactJS
-  **Job Responsibilities**
--
+-	Developed the Employee Desk Booking System as POC using Python, Django   ReactJS.
+  
+**Job Responsibilities**
+
 
 
 ## PROJECTS
