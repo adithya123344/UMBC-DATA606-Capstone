@@ -1,9 +1,9 @@
-# Loan Approval Prediction 
+# Loan Repayment Prediction 
 
 
 ## 1. Title and Author
 
-- **Project Title:** Loan Approval Prediction 
+- **Project Title:** Loan Repayment Prediction 
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Sai Adithya Reddy Alla
 - **GitHub Profile:**
@@ -15,18 +15,18 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 
 ## 2. Background
 - **What is it about?**
-  - ⁤My project mainly focuses on using machine learning and data analytics to predict loan approval or rejection of a customer. ⁤⁤Financial organisations, such as banks must analyze a customer's financial history, which includes credit score, income,intention,property status, employment status, and other factors, because they handle a large volume of loan applications. ⁤⁤I want to design a system that improves the speed and efficiency of approval of loans while minimizing human bias in decision-making.
+  - ⁤My project mainly focuses on using machine learning and data analytics to predict loan repayment of a customer. ⁤⁤Financial organisations, such as banks must analyze a customer's financial history, which includes credit score, income,intention,property status, employment status, and other factors, because they handle a large volume of loan applications. ⁤⁤I want to design a system that improves the speed and efficiency of repayment of loans while minimizing human bias in decision-making.
     
 - **why is it matters?**
-  - **⁤Loan approval prediction is important for various reasons: ⁤**
-   - Efficiency and Speed: By automating the loan approval process, banks could significantly decrease the time it takes to make decisions, resulting in faster application processing.
+  - **⁤Loan repayment prediction is important for various reasons: ⁤**
+   - Efficiency and Speed: By automating the loan repayment process, banks could significantly decrease the time it takes to make decisions, resulting in faster application processing.
    - Consistency and Fairness: When correctly trained and modified, predictive models can make more consistent and fair decisions than human examiners, lowering the risk of bias. ⁤
-   - Risk Management: Financial organizations use loan approval algorithms to reduce risk by identifying applicants who are more likely to default. ⁤⁤Effective prediction enables lenders to manage their portfolios and avoid lending to high-risk candidates. ⁤
+   - Risk Management: Financial organizations use loan repayment algorithms to reduce risk by identifying applicants who are more likely to default. ⁤⁤Effective prediction enables lenders to manage their portfolios and avoid lending to high-risk candidates. ⁤
    - Cost savings: Automation eliminates the need for human reviews, lowering operational expenses and decreasing errors or inconsistencies that may occur during human loan evaluations. ⁤
      
 - **What are your research questions?**
-  - What are the key factors that influence the approval or rejection of a loan application?
-  -  How accurately can a machine learning model predict loan approval based on historical data?
+  - What are the key factors that influence the repaymentof a loan application?
+  -  How accurately can a machine learning model predict loan repayment based on historical data?
   -  what are the challenges that will raise for predictions?
 ## 3. Data 
 
@@ -69,7 +69,7 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 
 ## Project Outcome
 #Machine learning models can be trained on this dataset to predict the following:
-- Whether a customer is eligible for a loan.
+- Whether a customer can repay a loan.
 - The probability of loan default based on the characteristics of the customer.
 
 
