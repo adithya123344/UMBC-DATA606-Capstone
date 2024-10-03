@@ -72,6 +72,33 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 - Whether a customer can repay a loan.
 - The probability of loan default based on the characteristics of the customer.
 
+## Exploratory Data Analysis (EDA)
+- **Cleaned the dataset by droping the null values and replacing some of the column null values with the mean values**
+- **Normalised and label Encoded the object based columns and converted the datatype into Int So that prediction can be more accurate**
+- **Dropped `customer_id` ,`index`,`historical default ` columns as they are not relevant**
+- **Used Plotly.express for visualization**
+ - In our Dataset,  customers took more Education loans compared to other
+  
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic1.png)
+- Most of the customers tooks the loan are from renatal houses
+
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic2.png)
+- Highest loans are taken by 23 years old customers
+
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic3.png)
+
+- and Least loans for Home Improvement 
+
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic4.png)
+- More customer that has more defaults are from rental houses
+  
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic5.png)
+- Medical Loans and Debt Consolidation loans have the most defaults
+
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic6.png)
+- Most of the loans taken by the cistomers are between age 23 to 30 years
+
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic7.png)
 
 
 
