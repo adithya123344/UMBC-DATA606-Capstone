@@ -1,9 +1,9 @@
-# Loan Repayment Prediction 
+# Loan Default Prediction 
 
 
 ## 1. Title and Author
 
-- **Project Title:** Loan Repayment Prediction 
+- **Project Title:** Loan Default Prediction 
 - **Prepared for UMBC Data Science Master Degree Capstone by Dr. Chaojie (Jay) Wang**
 - **Author Name:** Sai Adithya Reddy Alla
 - **GitHub Profile:**
@@ -15,18 +15,18 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 
 ## 2. Background
 - **What is it about?**
-  - ⁤My project mainly focuses on using machine learning and data analytics to predict loan repayment of a customer. ⁤⁤Financial organisations, such as banks must analyze a customer's financial history, which includes credit score, income,intention,property status, employment status, and other factors, because they handle a large volume of loan applications. ⁤⁤I want to design a system that improves the speed and efficiency of repayment of loans while minimizing human bias in decision-making.
+  - ⁤My project mainly focuses on using machine learning and data analytics to predict loan default of a customer. ⁤⁤Financial organisations, such as banks must analyze a customer's financial history, which includes credit score, income,intention,property status, employment status, and other factors, because they handle a large volume of loan applications. ⁤⁤I want to design a system that improves the speed and efficiency of repayment of loans while minimizing human bias in decision-making.
     
 - **why is it matters?**
-  - **⁤Loan repayment prediction is important for various reasons: ⁤**
-   - Efficiency and Speed: By automating the loan repayment process, banks could significantly decrease the time it takes to make decisions, resulting in faster application processing.
+  - **⁤Loan default prediction is important for various reasons: ⁤**
+   - Efficiency and Speed: By automating the loan default process, banks could significantly decrease the time it takes to make decisions, resulting in faster application processing.
    - Consistency and Fairness: When correctly trained and modified, predictive models can make more consistent and fair decisions than human examiners, lowering the risk of bias. ⁤
-   - Risk Management: Financial organizations use loan repayment algorithms to reduce risk by identifying applicants who are more likely to default. ⁤⁤Effective prediction enables lenders to manage their portfolios and avoid lending to high-risk candidates. ⁤
+   - Risk Management: Financial organizations use loan default algorithms to reduce risk by identifying applicants who are more likely to default. ⁤⁤Effective prediction enables lenders to manage their portfolios and avoid lending to high-risk candidates. ⁤
    - Cost savings: Automation eliminates the need for human reviews, lowering operational expenses and decreasing errors or inconsistencies that may occur during human loan evaluations. ⁤
      
 - **What are your research questions?**
-  - What are the key factors that influence the repaymentof a loan application?
-  -  How accurately can a machine learning model predict loan repayment based on historical data?
+  - What are the key factors that influence the default of a loan application?
+  -  How accurately can a machine learning model predict loan default based on historical data?
   -  what are the challenges that will raise for predictions?
 ## 3. Data 
 
@@ -40,7 +40,7 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
   - Columns: 13
 
 - What does each row represent?
-   - In this dataset, every row corresponds to an unique customer who is applying for a loan and includes information about their financial history, loan request, and current loan status.
+   - In this dataset, every row corresponds to an unique customer for a loan default and includes information about their financial history, loan request, and current loan status.
 ## Dataset Description
 
 | Column Name            | Description                                                | Data Type   |
@@ -71,6 +71,8 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 #Machine learning models can be trained on this dataset to predict the following:
 - Whether a customer can repay a loan.
 - The probability of loan default based on the characteristics of the customer.
+
+
 
 
   
