@@ -7,11 +7,6 @@ appdirs==1.4.4
 
 arxiv==1.4.7
 
-astunparse==1.6.3
-async-timeout==4.0.3
-atomicwrites==1.4.0
-
-
 
 
 conda==22.9.0
