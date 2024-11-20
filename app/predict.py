@@ -7,15 +7,12 @@ back="""
 background-image:url("bank.jpeg");
 background-size:cover;
 }
+.st-key-red button{
+    background-color:red;
+}
 </style>
 """
 st.markdown(back,unsafe_allow_html=True)
-
-def local_css(file_name):
-    with open(file_name) as f:
-        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
-
-local_css("backg.css")
 
 
 def loading_model():
