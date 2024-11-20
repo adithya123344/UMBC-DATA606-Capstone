@@ -68,7 +68,7 @@ loan_intent_dict = {"EDUCATION": 0, "MEDICAL": 1, "PERSONAL": 2, "DEBTCONSOLIDAT
 grade_dict = {"A": 0, "B": 1, "C": 2, "D": 3, "E": 4}
 
 
-st.image("loan.jpeg")
+
 
 HouseOwnership = house_ownership_dict[HouseOwnership]
 
