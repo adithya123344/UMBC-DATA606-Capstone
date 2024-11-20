@@ -101,5 +101,26 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 ![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/pic7.png)
 
 
+## Model Training
+- **The models used to predict the default status are** 
+  - #### Random Forest Classifier
+  - #### Logistic Regression
+  - #### K Neighbor Classifier
+  - #### Decision Tree Classifer
+  - #### GaussianNB Classifier
+  - #### Gradient Booster Classifier
+  - #### XGB Classifer
+
+- **Train vs test split = 80/20
+- **Python packages to be used scikit-learn, Pandas,Numpy
+- **The development environment used is JUPYTER NOTEBOOK ,VISUAL STUDIO CODE.
+
+### Comparing all Models
+![image]()
+
+
+
+  
+
 
   
