@@ -115,8 +115,33 @@ https://www.linkedin.com/in/adithya-reddy-91b477220/
 - **Python packages to be used scikit-learn, Pandas,Numpy
 - **The development environment used is JUPYTER NOTEBOOK ,VISUAL STUDIO CODE.
 
-### Comparing all Models
-![image]()
+## Comparing all Models
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/im1)
+### XGB Classifier model has the highest accuracy of 91.75%
+### Logistic Regression has the lowest accuracy of 67.83%
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/im2)
+
+## STREAMLIT WEB APP
+![image](https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/images/im3)
+
+## Future Use of Machine Learning in Loan Default Prediction!
+**More Improvements**
+- Enhanced Data Integration: Leveraging more diverse data sources, such as social media and transaction data, for a comprehensive borrower profile.
+- Advanced Algorithms: Adoption of more sophisticated algorithms like deep learning to improve prediction accuracy.
+- Real-Time Analysis: Implementation of real-time data processing to provide instant insights and decisions.
+  
+**Future Projects Can be implemented**
+- Personalized Loan Products: Tailoring loan offerings based on predictive insights to better serve individual borrower needs.
+- Fraud Detection: Using predictive models to identify and mitigate potential fraudulent activities in loan applications.
+- Risk Management: Enhancing financial institutions' risk management frameworks by integrating predictive analytics.
+
+## CONCLUSION
+- Machine learning algorithms for loan default prediction can improve financial organizations' risk management. These accurate and scalable models detect high-risk borrowers, optimize lending methods, and reduce financial losses by using historical data and advanced predictive analytics.
+-This study tested Logistic Regression, Random Forest, and XGBoost. The comparative analysis showed that [selected model, e.g., XGBoost] had the best precision-recall ratio, making it the ideal choice for real-world deployment.
+
+
+
+
 
 
 
