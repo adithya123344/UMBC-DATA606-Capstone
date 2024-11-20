@@ -71,7 +71,6 @@ pytest==7.1.2
 
 streamlit==1.39.0
 summarytools==0.3.0
-tables==3.6.1
 
 
 textblob==0.17.1
