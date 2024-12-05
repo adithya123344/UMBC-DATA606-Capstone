@@ -12,7 +12,7 @@
 https://www.linkedin.com/in/adithya-reddy-91b477220/
 - **Streamlit App:** https://loandefaultstatus.streamlit.app/
 - **Youtube link :** https://youtu.be/z2ANQzV9Rg0
-- **Presentation link :
+- **Presentation link :** https://github.com/adithya123344/UMBC-DATA606-Capstone/blob/main/docs/606-Final_presentation.pptx
 
 
 
